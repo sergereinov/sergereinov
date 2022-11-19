@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sergereinov
+- 👀 I’m interested in backend/services development and cross-app communications
+- 🌱 I’m currently learning golang, kotlin/android, js/nodejs
+- 💞️ I’m looking for cooperation in learning and improving English
+- 📫 How to reach me: https://t.me/ieezz
